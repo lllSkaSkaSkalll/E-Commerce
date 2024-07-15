@@ -1,0 +1,110 @@
+[
+    {
+        "id": 1,
+        "brand": "CASE IPONG 19",
+        "description": "Pelindung handphone berkualitas tinggi untuk iPhone 19, memberikan perlindungan maksimal dengan desain stylish.",
+        "price": 20000,
+        "promo": 40,
+        "category": "SMARTPHONE",
+        "image": ["https://i.postimg.cc/0Qbcpn40/Case.jpg"]
+    },
+    {
+        "id": 2,
+        "brand": "HEADSET GAMING",
+        "description": "Headset gaming dengan kualitas suara superior dan kenyamanan maksimal, ideal untuk sesi gaming yang lama.",
+        "price": 50000,
+        "promo": 50,
+        "category": "COMPUTER",
+        "image": ["https://i.postimg.cc/13sBWsTt/headset.jpg"]
+    },
+    {
+        "id": 3,
+        "brand": "HOODIE KEKINIAN",
+        "description": "Hoodie bergaya kekinian yang nyaman dan hangat, cocok untuk segala aktivitas sehari-hari.",
+        "price": 99000,
+        "promo": 40,
+        "category": "FASHION",
+        "image": ["https://i.postimg.cc/gk9NZvH3/hoodie.jpg"]
+    },
+    {
+        "id": 4,
+        "brand": "HEADSET JBL",
+        "description": "Headset JBL dengan kualitas suara jernih dan bass mendalam, ideal untuk mendengarkan musik dan panggilan telepon.",
+        "price": 45000,
+        "promo": 35,
+        "category": "SMARTPHONE",
+        "image": ["https://i.postimg.cc/CMnc5vkF/jbl.jpg"]
+    },
+    {
+        "id": 5,
+        "brand": "KOLOR TIKTOK",
+        "description": "Celana pendek santai dengan desain trendi, cocok untuk bersantai atau berolahraga ringan.",
+        "price": 25000,
+        "promo": 30,
+        "category": "FASHION",
+        "image": ["https://i.postimg.cc/wMN2rvgt/kolor.jpg"]
+    },
+    {
+        "id": 6,
+        "brand": "MAGIC COM ANAK KOSAN",
+        "description": "Rice cooker serbaguna dengan ukuran kompak, sempurna untuk anak kos dan penggunaan sehari-hari.",
+        "price": 10000,
+        "promo": 50,
+        "category": "ELECTRONICS",
+        "image": ["https://i.postimg.cc/50Tppvdd/MAGIC-COM.jpg"]
+    },
+    {
+        "id": 7,
+        "brand": "GLOWING MASKER WAJAH",
+        "description": "Masker wajah yang membuat kulit tampak bercahaya dan sehat, cocok untuk semua jenis kulit.",
+        "price": 60000,
+        "promo": 45,
+        "category": "SKIN CARE",
+        "image": ["https://i.postimg.cc/KYYN2Qmh/Masker.jpg"]
+    },
+    {
+        "id": 8,
+        "brand": "MIXER AJAIB",
+        "description": "Mixer dapur dengan berbagai fungsi, memudahkan pekerjaan memasak Anda dengan hasil yang sempurna.",
+        "price": 110000,
+        "promo": 40,
+        "category": "ELECTRONICS",
+        "image": ["https://i.postimg.cc/P5y490sM/MIXER.jpg"]
+    },
+    {
+        "id": 9,
+        "brand": "SANDAL BADAI",
+        "description": "Sandal nyaman dengan desain stylish, cocok untuk pemakaian sehari-hari di dalam dan luar ruangan.",
+        "price": 60000,
+        "promo": 50,
+        "category": "SHOES",
+        "image": ["https://i.postimg.cc/qM8QXz1S/Sandal.jpg"]
+    },
+    {
+        "id": 10,
+        "brand": "SCARLET WHITENING",
+        "description": "Produk perawatan kulit yang membantu mencerahkan dan meratakan warna kulit, cocok untuk penggunaan sehari-hari.",
+        "price": 75000,
+        "promo": 40,
+        "category": "SKIN CARE",
+        "image": ["https://i.postimg.cc/W3FwD3D9/scarlet.jpg"]
+    },
+    {
+        "id": 11,
+        "brand": "SUPRIM NIH BOS",
+        "description": "Sepatu dengan desain modern dan nyaman, ideal untuk berbagai aktivitas harian.",
+        "price": 200000,
+        "promo": 30,
+        "category": "SHOES",
+        "image": ["https://i.postimg.cc/JnfcjLZR/sepatu-1.jpg"]
+    },
+    {
+        "id": 12,
+        "brand": "HAPE VIVO V7",
+        "description": "Smartphone Vivo V7 dengan teknologi terkini, menawarkan performa tinggi dan fitur canggih.",
+        "price": 2500000,
+        "promo": 35,
+        "category": "SMARTPHONE",
+        "image": ["https://i.postimg.cc/sXDNphxm/vivo-20170929-022603.jpg"]
+    }
+]
