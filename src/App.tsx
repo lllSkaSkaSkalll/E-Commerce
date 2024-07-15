@@ -10,7 +10,6 @@ import { useFetchData } from "./libs/useFetchData";
 
 const App = () => {
     const { product: products, banner, category: categories } = useFetchData();
-    console.log("🚀 ~ App ~ products:", products);
     const [search, setSearch] = useState<string>("");
     const [category, setCategory] = useState<string>("all");
     const [cart, setCart] = useState<Product[]>([]);

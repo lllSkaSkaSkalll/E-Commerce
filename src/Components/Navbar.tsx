@@ -27,7 +27,7 @@ const Navbar = ({ product }: { product: Product[] }) => {
             <div className="container mx-auto px-5 md:px-3 lg:px-0 py-[10px] flex items-center justify-between">
                 <h1 className="text-3xl font-semibold font-poppins text-primary">Creative Store</h1>
                 <div className="flex items-center gap-5">
-                    <a href="/" className="text-lg font-medium underline-custom cursor-pointer hover:text-primary">
+                    <a href="/E-Commerce/" className="text-lg font-medium underline-custom cursor-pointer hover:text-primary">
                         Home
                     </a>
                     <a href="#category" className="text-lg font-medium underline-custom cursor-pointer hover:text-primary">
